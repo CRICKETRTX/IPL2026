@@ -1,5 +1,78 @@
 #EXTM3U
-# JHS Channels — auto-updated 2026-05-31 10:05:06
+# Title: FINAL PREVIEW RCB VS GT
+# Updated: 2026-05-31 10:06:58
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", ENGLISH
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/eng/v3/avc/1780154130920/hls/plain/master-hHe82PH8XgxwUiat_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", HINDI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/hin/v1/avc/1780153866278/hls/plain/master-Zv6Hoq8WcvG2a2Cw_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", MARATHI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/mar/v1/avc/1780160545601/hls/plain/master-okLbJwf46SMivlwI_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", GUJARATI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/guj/v1/avc/1780169891324/hls/plain/master-UFBFE2rQxK1YlZGP_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", BHOJPURI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/bho/v1/avc/1780163525832/hls/plain/master-KI4gALkPdK3tuPhh_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", PUNJABI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/pun/v1/avc/1780161499445/hls/plain/master-1SkQEf46uLJuA8tK_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", HARYANVI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/har/v1/avc/1780162595243/hls/plain/master-HABhwHaNfJQm6Btx_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", TAMIL
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/tam/v1/avc/1780168257257/hls/plain/master-hC6VjJnwCSorFVXn_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", TELUGU
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/tel/v1/avc/1780160657052/hls/plain/master-Kbfs7W5DInmP8b7t_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", KANNADA
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/kan/v1/avc/1780169372529/hls/plain/master-t3p2HeuRMuKVJ02x_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", MALAYALAM
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/mal/v1/avc/1780154860261/hls/plain/master-c8ZEj7kwBbynj4S4_full_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8569/1780139528569-b" group-title="FINAL PREVIEW RCB VS GT", BENGALI
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+https://hssportsprepack.akamaized.net/videos/cricket/1271507153/1271641020/in/ben/v1/avc/1780168380898/hls/plain/master-ymyOiwyt4Fxs7SuI_full_hd.m3u8
 
 #EXTINF:-1 tvg-name="TATA IPL TV" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8763/1739203338763-a.jpg" group-title="JHS CHANNELS", TATA IPL TV
 https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8?|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&Cookie=hdntl=exp=1780202597~acl=/videos/cricket/1271507153/1271641020/in/eng/v3/hevc/1780154941763/dash/widevine/*~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=frdH4eRKlnHggS9jT2tWNpsH0ppSozJf9lxugT8BHkLn-did=p1bvDz8WY7c33f2Nd40ASDU1dUHXk3SQOgW1dvm7ftX6-cc=in-de=1-pl=androidtv-ap=26.05.10.2-ut=free-~hmac=14a5315dc54c59148118e449183a284936a72563df32b343fc14cdab86dad32c
